@@ -1,20 +1,20 @@
 <template>
   <div class="container">
     <div class="vectorMap-test">
-      <VectorMap></VectorMap>
+      <vectorMap/>
     </div>
   </div>
 </template>
 
 <script>
-import VectorMap from "./VectorMap";
+// import VectorMap from "./VectorMap";
 
 export default {
   data() {
     return {};
   },
   components: {
-    VectorMap
+    // VectorMap
   },
   methods: {}
 };
